@@ -50,7 +50,7 @@ Aim to beat your highscore!
 ## Setup Instructions
 To run the game locally:
 
-Clone the Repository:git clone https://github.com/your-username/number-guessing-game.git
+Clone the Repository:[git clone https://github.com/your-username/number-guessing-game.git](https://github.com/ahmadubaid061/ahmadubaid061-Js-game-Guess-a-Number)
 
 
 Navigate to the Project:cd number-guessing-game
@@ -72,20 +72,12 @@ Use a local server (e.g., VS Code Live Server) for the best experience.
 
 
 
-**Game Start:** 
-Win Screen: More screenshots coming soon!
 
-## Live Demo
-Play the game here (Replace with your hosted link, e.g., GitHub Pages, CodePen)
-Future Enhancements
 
-Add sound effects for wins and losses.
-Introduce difficulty levels (e.g., easy: 1–20, medium: 1–50, hard: 1–100).
-Implement a shake animation for incorrect guesses.
-Add a timer for timed challenges.
+
 
 ## My JavaScript Journey
-This game is a proud milestone in my journey as a web developer. As a graphic designer and video editor from Pakistan, I’ve loved combining my design skills with coding to create a clean, engaging UI. Building this game taught me:
+This game is a proud milestone in my journey as a web developer.
 
 - **DOM manipulation:** Updating elements like score and messages.
 - **Event listeners:** Handling button clicks and input.
@@ -98,7 +90,7 @@ I’d love your feedback! Please:
 
 Open an issue for bugs or suggestions.
 Submit a pull request with improvements.
-Share your thoughts on X or LinkedIn (links below).
+Share your thoughts on   LinkedIn (links below).
 
 ## Contact
 
