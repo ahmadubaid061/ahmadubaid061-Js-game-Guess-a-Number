@@ -1,6 +1,6 @@
 # Number Guessing Game 🎮
 ## Overview
-Welcome to my Number Guessing Game! This is a fun, interactive web-based game built with HTML, CSS, and JavaScript, marking a significant milestone in my JavaScript learning journey. As a graphic designer and video editor, I’m thrilled to blend my design skills with coding to create an engaging user experience. This game challenges players to guess a random number between 1 and 20, with dynamic feedback and a polished UI.
+Welcome to my Number Guessing Game! This is a fun, interactive web-based game built with HTML, CSS, and JavaScript, marking a significant milestone in my JavaScript learning journey. As a front designer, I’m thrilled to blend my design skills with coding to create an engaging user experience. This game challenges players to guess a random number between 1 and 20, with dynamic feedback and a polished UI.
 Key Highlights:
 
 Built from scratch with clean, modular code.
