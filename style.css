@@ -46,5 +46,5 @@ input {
 }
 
 .btnAgain.zoom {
-  animation: zoomInOut 1s ease-in-out infinite;
+animation: zoomInOut 1s ease-in-out 1;
 }
